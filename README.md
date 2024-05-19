@@ -1,2 +1,3 @@
 # Dices_Game
- 
+练手小游戏，代码主要逻辑都使用JavaScript编写，界面比较简陋
+主要实现了PVP以及PVE两种模式，界面以及代码逻辑比较low
